@@ -1,3 +1,10 @@
+# ** Project is Archived **
+
+InfluxDB has always changed fast.   This repo came out of one of the early InfluxDB changes in v1 where the built-in web interface was dropped in favour of Chronograf.  I found it useful to still be able to run the old web interface.  
+
+Then they added a built-in web interface back for v2, and I guess it will probably be gone again when v3 OSS comes out.  Anyway, this repo is several generations behind now and probably not much use to anybody so I'm archiving it.
+
+
 # influx-admin
 
 InfluxDB used to ship with an "admin web interface" which allowed you to test queries.  This has [now been deprecated](https://docs.influxdata.com/influxdb/v1.2/tools/web_admin/) in favour of [Chronograf](https://docs.influxdata.com/chronograf/).  
